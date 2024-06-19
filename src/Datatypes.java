@@ -27,8 +27,6 @@ public class Datatypes
 
         System.out.println("Char :"+t);
         System.out.println("Name :" + s);
-        System.out.println("ID : " + i);
-        
-        
+        System.out.println("ID : " + i);       
     }
 }
