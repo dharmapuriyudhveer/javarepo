@@ -33,14 +33,10 @@ public class Gradingsystem
         System.out.println("Exam score :" + score);
         System.out.println("Grade :" +grade);
 
-        if(age <=25 && grade == "A" || grade == "B")
+        if(age <=25 && grade == "A" || grade == "B") 
             System.out.println("You will get the scholarship");
         else
             System.out.println("You will not get the scholarship");
-
-        
-
-
 
     }
 }
