@@ -11,10 +11,6 @@ public class person
         this.mobileNumber=mobileNumber;
         this.address=address;
     }
-    @Override
-    public String toString() {
-        return "person [name=" + name + ", id=" + id + ", mobileNumber=" + mobileNumber + ", address=" + address + "]";
-    }
     
     }
 
